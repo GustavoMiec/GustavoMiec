@@ -44,7 +44,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-![Snake animation](https://github.com/GustavoMiec/GustavoMiec/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/GustavoMiec/GustavoMiec/blob/main/dist/github-contribution-grid-snake.svg)
+
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMiec&repo=GustavoMiec&theme=react)](https://github.com/GustavoMiec/GustavoMiec)
 
