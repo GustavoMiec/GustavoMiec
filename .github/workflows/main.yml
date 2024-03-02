@@ -25,3 +25,4 @@ jobs:
         run: python -m snake_github_contributions
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
