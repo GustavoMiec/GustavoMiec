@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo 👋
 
-- 🔭 Atualmente trabalho como Full Stack.
+- 🔭 Full Stack.
 - 🌱 Estudo na FIAP.
 
 #### Estatísticas do GitHub
