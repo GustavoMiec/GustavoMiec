@@ -45,7 +45,7 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/GustavoMiec/GustavoMiec/blob/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github-contributions.vercel.app/api/snake/raw?user=GustavoMiec)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMiec&repo=GustavoMiec&theme=react)](https://github.com/GustavoMiec/GustavoMiec)
 
