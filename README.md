@@ -35,6 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-0D1117?logo=intellij-idea&style=for-the-badge)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 
 ### Cloud:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0D1117?style=for-the-badge&logo=microsoft&logoColor=61DAFB)&nbsp;
