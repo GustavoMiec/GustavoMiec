@@ -18,6 +18,8 @@
 ![Spring](https://img.shields.io/badge/spring-0D1117.svg?style=for-the-badge&logo=spring&logoColor=green)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117.svg?style=for-the-badge&logo=scikit-learn&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-0D1117.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 
  
