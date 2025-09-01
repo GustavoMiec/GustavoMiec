@@ -40,14 +40,6 @@
 ### Cloud:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0D1117?style=for-the-badge&logo=microsoft&logoColor=61DAFB)&nbsp;
 
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/GustavoMiec/count.svg" />
-  </p> 
-  <br>
-</div>
 
 
 
