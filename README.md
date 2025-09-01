@@ -5,7 +5,6 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoMiec&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMiec&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img height="250em" width="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=GustavoMiec&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=vision-friendly-dark">
 </div>
 
 ![Gustavo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoMiec&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true&force=true)
